@@ -1,0 +1,37 @@
+body {
+color:black;
+background: #fff url('assets/fastoche.png') top center no-repeat;
+background-size: cover;
+}
+
+.h1 {
+  color:white;
+  margin-bottom: 450px;
+  margin-top: 250px;
+}
+
+.pouces {
+  box-shadow: 3px 3px 3px black;
+
+}
+
+#groslogo {
+
+}
+
+footer {
+  min-height: 4em;
+  min-width: 100%;
+background-color: #fff
+}
+
+
+.btn-fred {
+    color: #FFD5BC;
+    background-color: #F73F00;
+}
+
+.btn-fred:hover {
+    color: #F73F00;
+    background-color: #FFD5BC;
+}
